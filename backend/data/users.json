@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1743938030855",
+    "username": "12309960@lpu.com",
+    "password": "$2b$10$0744wneG0Fl104hS6TKiYOMr4Qdt8yOvBw4Imo6sWqa0he3BH.09W",
+    "createdAt": "2025-04-06T11:13:50.855Z"
+  },
+  {
+    "id": "1743938428857",
+    "username": "add@gmail.com",
+    "password": "$2b$10$pC9FVk/ZbPwdequwYaOro.Yu.UBS8P/YweiKt6yrkSOfIlngKM49m",
+    "createdAt": "2025-04-06T11:20:28.857Z"
+  },
+  {
+    "id": "1743939061792",
+    "username": "addadd@gmail.com",
+    "password": "$2b$10$ChPq78G1tES8pty3bAQlh.rMh59t8mGfb24VdgpY.u25FCN7bdnJS",
+    "createdAt": "2025-04-06T11:31:01.792Z"
+  }
+]
