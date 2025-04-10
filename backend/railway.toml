@@ -1,8 +1,12 @@
 [build]
 builder = "nixpacks"
-buildCommand = "npm install"
+buildCommand = "cd backend && npm install"
 
 [deploy]
-startCommand = "npm start"
+startCommand = "cd backend && npm start"
 healthcheckPath = "/health"
 healthcheckTimeout = 100
+
+[deploy.env]
+NODE_ENV = "production"
+PORT = "5000"
